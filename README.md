@@ -1,4 +1,4 @@
-# Hi there, I'm Malik Khawar! 👋
+# Hi there, I'm Khawar Hasnain! 👋
 
 I am a Data Scientist with the IBM Data Science Professional Certification and deeplearning.ai Deep Learning Specialization. My journey in data science involves collecting, cleaning, and analyzing data from various real-world sources, then extracting insights through statistical methods, machine learning, and deep learning.
 
